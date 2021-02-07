@@ -2,7 +2,7 @@
 
 Demonstration repository for code files generation by the `build_runner`. (dart / flutter)  
 
-- slide
+- slide (sorry this slide document language is japanese only)
   - [Getting Started with Code File Generate](https://drive.google.com/file/d/1tdtdP0FKJSF22LYrTmxl08DpxAPaR6zX/view?usp=sharing)
   - [Flutter/Dart Getting Started with Code File Generate](https://www.slideshare.net/cch-robo/getting-started-withcodefilegeneratingbycodegenandbuildrunner)
 
