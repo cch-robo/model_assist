@@ -9,6 +9,11 @@ Demonstration repository for code files generation by the `build_runner`. (dart 
   - [GDG Coto Meetup](https://gdgkyoto.connpass.com/event/200110/) (2021-02-06)
   - [Flutter Meetup Osaka #6](https://flutter-jp.connpass.com/event/201351/) (2021-02-10)
 
+- To generate the code file, open a terminal and execute the following command in the example directory.
+  - `pub get`
+  - `pub run build_runner build --delete-conflicting-outputs`
+
+
 ## Japanese language
 
 「コードファイルジェネレート入門」 セッションスライドのデモ用リポジトリです。  
@@ -20,3 +25,7 @@ Demonstration repository for code files generation by the `build_runner`. (dart 
 - 関連するテック系ミートアップ
   - [GDG 古都 Meetup](https://gdgkyoto.connpass.com/event/200110/) (2021-02-06)
   - [Flutter Meetup Osaka #6](https://flutter-jp.connpass.com/event/201351/) (2021-02-10)
+
+- コードファイルを生成するにはターミナルを開き、example ディレクトリで以下のコマンドを実行してください。
+  - `pub get`
+  - `pub run build_runner build --delete-conflicting-outputs`
