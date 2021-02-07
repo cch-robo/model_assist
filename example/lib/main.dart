@@ -21,8 +21,8 @@ void main() {
   final Chocolate chocolate = Chocolate('Milk Chocolate', 120);
   final Product daifukuProduct = Product(daifuku.namae, int.parse(daifuku.nedan));
   final Product chocolateProduct = Product(chocolate.name, chocolate.price);
-  chocolateProduct.display();
   daifukuProduct.display();
+  chocolateProduct.display();
 
 /*
   // コードファイルジェネレート後用
