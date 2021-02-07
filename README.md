@@ -28,6 +28,6 @@ open a terminal and execute the following command in the example directory.
   - [Flutter Meetup Osaka #6](https://flutter-jp.connpass.com/event/201351/) (2021-02-10)
 
 - モデルをアシストするコードファイルを生成するには、  
-ターミナルを開きいて example ディレクトリで以下のコマンドを実行してください。
+ターミナルを開いて example ディレクトリで以下のコマンドを実行してください。
   - `pub get`
   - `pub run build_runner build --delete-conflicting-outputs`
