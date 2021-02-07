@@ -1,0 +1,13 @@
+name: model_assist_annotation
+description: A Package project of annotation.
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+

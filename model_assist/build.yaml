@@ -1,0 +1,14 @@
+targets:
+  $default:
+    builders:
+      model_assist|model_assist_generator:
+        enabled: true
+
+builders:
+  model_assist_generator:
+    import: 'package:model_assist/builder.dart'
+    builder_factories: ['modelAssistBuilder']
+    build_extensions: {'.dart': ['.model_assist.g.dart']}
+    auto_apply: dependents
+    build_to: source
+    applies_builders: ['source_gen|combining_builder']

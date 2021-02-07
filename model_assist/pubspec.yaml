@@ -1,0 +1,20 @@
+name: model_assist
+description: A Package project of generate code file.
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  analyzer: ^0.41.2
+  build: ^1.6.1
+  build_config: ^0.4.5
+  source_gen: ^0.9.10+1
+  model_assist_annotation:
+    path: ../model_assist_annotation/
+
+dev_dependencies:
+  build_runner: ^1.11.0
+  test: ^1.15.7
