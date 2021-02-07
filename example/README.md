@@ -1,16 +1,15 @@
 # example
 
-A new Flutter project.
+A model assistance code file generation sample by the build_runner.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Open a terminal and move to the example directory.  
+Execute `pub get` command.  
+And more execute `pub run build_runner build --delete-conflicting-outputs` command, 
+for generate to assistant code files.  
+It will create two files `lib/src/model_daifuku.model_assist.g.dart` 
+and `lib/src/model_chocolate.model_assist.g.dart`.  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+now then you can run this sample by `dart lib/main.dart` command with using `DaifukuBase` 
+and `ChocolateBase` classes.
