@@ -1,8 +1,8 @@
 name: model_assist_annotation
 description: A Package project of annotation.
 version: 0.0.1
-author:
-homepage:
+author: cch-robo
+homepage: https://github.com/cch-robo/model_assist
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
