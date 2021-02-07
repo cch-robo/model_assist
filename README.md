@@ -1,14 +1,22 @@
 # model_assist
 
-A new Flutter package project.
+Demonstration repository for code files generation by the `build_runner`. (dart / flutter)  
 
-## Getting Started
+- slide
+  - [Getting Started with Code File Generate](https://drive.google.com/file/d/1tdtdP0FKJSF22LYrTmxl08DpxAPaR6zX/view?usp=sharing)
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+- related Tech Meetups.
+  - [GDG Coto Meetup](https://gdgkyoto.connpass.com/event/200110/) (2021-02-06)
+  - [Flutter Meetup Osaka #6](https://flutter-jp.connpass.com/event/201351/) (2021-02-10)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Japanese language
+
+「コードファイルジェネレート入門」 セッションスライドのデモ用リポジトリです。  
+`build_runner` により、モデルを支援するコードファイル生成を行います。 (dart / flutter)  
+
+- slide
+  - [コードファイルジェネレート入門](https://drive.google.com/file/d/1tdtdP0FKJSF22LYrTmxl08DpxAPaR6zX/view?usp=sharing)
+
+- 関連するテック系ミートアップ
+  - [GDG 古都 Meetup](https://gdgkyoto.connpass.com/event/200110/) (2021-02-06)
+  - [Flutter Meetup Osaka #6](https://flutter-jp.connpass.com/event/201351/) (2021-02-10)
